@@ -1,3 +1,55 @@
-.nav-item {
 
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+header h1 {
+    position: absolute;
+    color: whitesmoke;
+    top: 350px;
+    left: 800px;
+}
+
+header h2 {
+    position: absolute;
+    color: whitesmoke;
+    top: 398px;
+    left: 815px;
+    font-size: 20px;
+}
+.icons  #pri{
+    position: absolute;
+    color: whitesmoke;
+    top: 430px;
+    margin-left: 870px;
+}
+.icons  #seg{
+    position: absolute;
+    color: whitesmoke;
+    top: 430px;
+    margin-left: 890px;
+}
+.icons  #ter{
+    position: absolute;
+    color: whitesmoke;
+    top: 430px;
+    margin-left: 910px;
+}
+.icons  #qua{
+    position: absolute;
+    color: whitesmoke;
+    top: 430px;
+    margin-left: 930px;
+}
+main{
+    background-color: #343a40!important;
+}
+main img{
+    border-radius: 50%;
+    margin-left: 850px;
+    margin-top: 100px;
+    width: 150px;
 }
