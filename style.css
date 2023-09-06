@@ -10,46 +10,50 @@ header h1 {
     position: absolute;
     color: whitesmoke;
     top: 350px;
-    left: 800px;
+    left: 40vw;
 }
 
 header h2 {
     position: absolute;
     color: whitesmoke;
     top: 398px;
-    left: 815px;
+    left: 41vw;
     font-size: 20px;
 }
 .icons  #pri{
     position: absolute;
     color: whitesmoke;
     top: 430px;
-    margin-left: 870px;
+    margin-left: 45vw;
 }
 .icons  #seg{
     position: absolute;
     color: whitesmoke;
     top: 430px;
-    margin-left: 890px;
+    margin-left: 47vw;
 }
 .icons  #ter{
     position: absolute;
     color: whitesmoke;
     top: 430px;
-    margin-left: 910px;
+    margin-left: 49vw;
 }
 .icons  #qua{
     position: absolute;
     color: whitesmoke;
     top: 430px;
-    margin-left: 930px;
+    margin-left: 51vw;
 }
 main{
     background-color: #343a40!important;
 }
 main img{
     border-radius: 50%;
-    margin-left: 850px;
-    margin-top: 100px;
-    width: 150px;
+    width: 10vw;
+    margin-left: 7vw;
+}
+main .card{
+    width: 25vw;
+    margin-left: 36vw;
+    
 }
