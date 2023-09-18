@@ -1,4 +1,11 @@
-
+@font-face {
+    font-family: 'vegina';
+    src: url('font/veginia/READ\ ME\ -\ Aouar\ \(License\).txt');
+}
+@font-face {
+    font-family: 'wonder';
+    src: url('font/wonder_season/WONDER\ SEASON.ttf');
+}
 .navbar-light .navbar-brand {
     color: white;
 }
@@ -44,19 +51,35 @@ header h2 {
     top: 430px;
     margin-left: 51vw;
 }
-main{
+article{
     background-color: #343a40!important;
 }
-main img{
+.card{
+    width: 25vw;
+    margin-left: 36vw;
+    background-color: #6f7377;
+}
+.card img{
     border-radius: 50%;
     width: 10vw;
     margin-left: 7vw;
+    margin-top: 2vh;
 }
-main .card{
-    width: 25vw;
-    margin-left: 36vw;
-    
+.card h5{
+    font-family: 'wonder';
+    font-size: 70px;
+    text-align: center;
+    color: black;
 }
-main h5{
-    
+.card p{
+    font-family: 'veginia';
+    font-size: 20px;
+    margin: 1vw;
+    text-align: center;
+}
+.card a{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-family: 'wonder';
 }
